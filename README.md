@@ -1,1 +1,16 @@
-# AndroidApp_Java
+# AndroidAppJava
+##Technology stack:
+1) Algorithms: [a](https://github.com/MSagGik/Calculator) [b](https://github.com/MSagGik/SecondLessonMortgageCalculationAlgorithm) [c](https://github.com/MSagGik/FifthLessonLuckyTicket) [d](https://github.com/MSagGik/SixthLessonAbsoluteEnergy) [e](https://github.com/MSagGik/SeventhLessonApplicationModerator) [f](https://github.com/MSagGik/NinthLessonSortingAlgorithm)
+2) [Touching the screen](https://github.com/MSagGik/SecondLessonSchrodingersCat)
+3) [String](https://github.com/MSagGik/SeventhLessonApplicationTaleASPushkin)
+4) [Stopwatch](https://github.com/MSagGik/EighthLessonStopwatch)
+5) MediaPlayer and Pro UI: [a](https://github.com/MSagGik/SixthLessonAudioPlayer2.1) [b](https://github.com/MSagGik/MusicPlayer)
+6) [Animation and working with resources](https://github.com/MSagGik/FirstLessonXmlResources)
+7) [Intent](https://github.com/MSagGik/ThirdLessonIntent)
+8) [ListView](https://github.com/MSagGik/FourthLessonYoungPaleontologist) and [RecyclerView](https://github.com/MSagGik/FifthLessonAnimalHandbook)
+9) REST API and SharedPreferences: [a](https://github.com/MSagGik/NinthLessonWeatherForecast) [b](https://github.com/MSagGik/ExampleRestApiProject)
+10) Custom View: [Drawing](https://github.com/MSagGik/EighthLessonBeginnerArtist1.1) and [Game](https://github.com/MSagGik/EighthLessonGamePilot1.1)
+11) [Permission](https://github.com/MSagGik/AndroidPermissionExample)
+12) [Sensors](https://github.com/MSagGik/ThirdLessonBuildingLevel)
+13) [SQLite](https://github.com/MSagGik/SixthLessonNotebook)
+14) [IoT](https://github.com/MSagGik/SmartHomeControlViaBluetooth)
