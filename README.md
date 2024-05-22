@@ -1,5 +1,5 @@
 # AndroidAppJava
-##Technology stack:
+## Technology stack:
 1) Algorithms: [a](https://github.com/MSagGik/Calculator) [b](https://github.com/MSagGik/SecondLessonMortgageCalculationAlgorithm) [c](https://github.com/MSagGik/FifthLessonLuckyTicket) [d](https://github.com/MSagGik/SixthLessonAbsoluteEnergy) [e](https://github.com/MSagGik/SeventhLessonApplicationModerator) [f](https://github.com/MSagGik/NinthLessonSortingAlgorithm)
 2) [Touching the screen](https://github.com/MSagGik/SecondLessonSchrodingersCat)
 3) [String](https://github.com/MSagGik/SeventhLessonApplicationTaleASPushkin)
